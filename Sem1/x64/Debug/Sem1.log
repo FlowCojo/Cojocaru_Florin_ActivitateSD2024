@@ -1,0 +1,5 @@
+﻿  Sem1.c
+D:\Sem1\Sem1.c(26,18): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Sem1\Sem1.c(27,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Sem1\Sem1.c(53,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Sem1.vcxproj -> D:\Sem1\x64\Debug\Sem1.exe
